@@ -1,7 +1,7 @@
 {
   "name": "timeconverter",
   "short_name": "timeconverter",
-  "start_url": "/",
+  "start_url": "/REPO_NAME/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
