@@ -1,7 +1,7 @@
 {
   "name": "timeconverter",
   "short_name": "timeconverter",
-  "start_url": "/REPO_NAME/",
+  "start_url": "abudhabi-toronto-time-converter",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
